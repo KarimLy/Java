@@ -1,0 +1,16 @@
+# Gradle
+build/
+/.gradle/
+
+
+
+# Eclipse
+/.classpath
+/.settings/
+/.project
+/bin/
+
+
+
+# Misc
+*.log
